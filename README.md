@@ -29,7 +29,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabarunbaruaAIML&" alt="nabarunbaruaAIML" /></p>
-![Nabarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabarunAIML&count_private=true&show_icons=true&include_all_commits=true)
+
+<img src="https://github-readme-stats.vercel.app/api?username=nabarunAIML&count_private=true&show_icons=true&include_all_commits=true" alt="Nabarun" width="300" />
+
 <!--
 **nabarunbaruaAIML/nabarunbaruaAIML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
