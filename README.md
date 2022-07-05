@@ -2,8 +2,8 @@
 ### Hi there 👋 I'm Nabarun Barua. 🔭 I’m currently working on NLP Projects.
 
 ### My Technical Expertise is in -
-* Deep Learning NLP
-* Working understanding in Computer Vision
+* Working in Deep Learning NLP
+* Working in Computer Vision
 <br>
 
 <hr>
